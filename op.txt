@@ -1,1 +1,11 @@
-"this is fro main branch"
+
+"this is from main branch"
+
+1. project problem statement 
+2. data gathering
+3. EDA
+4. feature enginnering
+5. feature selection
+
+"this is from feature branch "
+
